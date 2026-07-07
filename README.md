@@ -29,8 +29,6 @@ English-Grammar-Mastery/
 └── Resources/                         # 🎒 附录资源
     ├── Answer_Key.md                  #    ├── 参考答案全集
     └── Irregular_Verbs.md             #    └── 不规则动词表
+
 ---
 
-### 🎒 附录资源 (Resources)
-- [参考答案全集 (Answer Key)](#resources-answer-key)
-- [不规则动词表 (Irregular Verbs)](#resources-irregular-verbs)
