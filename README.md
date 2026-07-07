@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-  <font size="7"><b>📖 English Grammar Learning</b></font>
+  <font size="10"><b>📖 English Grammar Learning</b></font>
 </p>
 
 <p align="center">
-  <font size="4">🔤 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</font>
+  <font size="7">🔤 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</font>
 </p>
 
 <br>
