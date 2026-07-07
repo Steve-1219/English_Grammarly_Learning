@@ -1,3 +1,49 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Grammar-blue?style=for-the-badge&logo=readthedocs" alt="English Grammar">
+  <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge" alt="Version">
+</p>
+
+<h1 align="center">📖 English Grammar Learning</h1>
+
+<p align="center">
+  <b>英语语法系统学习笔记 · 从入门到精通</b><br>
+  <sub>📚 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📝-基础语法-4CAF50" alt="基础语法">
+  <img src="https://img.shields.io/badge/🔬-核心语法-2196F3" alt="核心语法">
+  <img src="https://img.shields.io/badge/📋-练习题-FF9800" alt="练习题">
+  <img src="https://img.shields.io/badge/📎-附录-9C27B0" alt="附录">
+</p>
+
+---
+
+## 📂 目录树状图
+
+```bash
+english-grammar-learning/
+├── 📄 README.md
+├── 📁 01-基础语法/
+│   ├── 📝 01-名词代词.md
+│   ├── 📝 02-冠词数词.md
+│   ├── 📝 03-动词.md
+│   ├── 📝 04-形容词副词.md
+│   └── 📝 05-连词介词.md
+├── 📁 02-核心语法/
+│   ├── 📝 01-简单句.md
+│   ├── 📝 02-时态.md
+│   ├── 📝 03-语态.md
+│   ├── 📝 04-主谓一致.md
+│   ├── 📝 05-从句.md
+│   ├── 📝 06-非谓语动词.md
+│   ├── 📝 07-特殊句型.md
+│   └── 📝 08-其他结构.md
+├── 📁 exercises/
+│   └── 📝 练习题汇总.md
+└── 📁 appendix/
+    └── 📝 不规则动词表.md
 
 ---
 
