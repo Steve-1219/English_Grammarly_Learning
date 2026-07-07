@@ -173,3 +173,7 @@
 <p align="center">
 ⭐ 如果对你有帮助，欢迎 Star 支持！
 </p>
+
+<p align="center">
+🎯 盛雨欣快来学习英语！
+</p>
