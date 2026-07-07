@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/English-Grammar-blue?style=for-the-badge&logo=readthedocs" alt="English Grammar">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"><br>
   <b>📖 English Grammar Learning</b><br>
   <sub>🔤 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</sub>
 </p>
