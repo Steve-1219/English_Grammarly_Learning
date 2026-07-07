@@ -8,6 +8,48 @@
 
 本项目内容分为两大部分：**基础语法**（词法为主）与 **核心语法**（句法为主），共计 13 个章节及附录。
 
+---
+
+## 📂 项目文件结构 (File Structure)
+
+为了保持仓库整洁，建议按照以下树状结构组织文件。每个章节对应一个独立的文件夹，内部包含该章节的详细笔记和练习。
+
+```text
+English-Grammar-Mastery/
+├── README.md                          # 🏠 项目主页与导航 (本文件)
+├── Part1_Basic_Grammar/               # 🧱 第一部分：基础语法
+│   ├── Ch01_Nouns_Pronouns/           # 第一章：名词、代词
+│   │   └── README.md                  #    ├── 知识点详解
+│   │   └── Exercises.md               #    └── 实战演练
+│   ├── Ch02_Articles_Numerals/        # 第二章：冠词、数词
+│   │   └── README.md
+│   ├── Ch03_Verbs/                    # 第三章：动词 (实义/系动/助动/情态)
+│   │   └── README.md
+│   ├── Ch04_Adjectives_Adverbs/       # 第四章：形容词、副词
+│   │   └── README.md
+│   └── Ch05_Conjunctions_Prepositions/# 第五章：连词、介词
+│       └── README.md
+├── Part2_Core_Grammar/                # 🏗️ 第二部分：核心语法
+│   ├── Ch06_Simple_Sentences/         # 第六章：简单句 (成分/句型)
+│   │   └── README.md
+│   ├── Ch07_Tenses/                   # 第七章：时态系统
+│   │   └── README.md
+│   ├── Ch08_Voice/                    # 第八章：语态转换 (被动语态)
+│   │   └── README.md
+│   ├── Ch09_Subject_Verb_Agreement/   # 第九章：主谓一致
+│   │   └── README.md
+│   ├── Ch10_Clauses/                  # 第十章：三大从句 (名/定/状)
+│   │   └── README.md
+│   ├── Ch11_Non_Finite_Verbs/         # 第十一章：非谓语动词
+│   │   └── README.md
+│   ├── Ch12_Special_Patterns/         # 第十二章：特殊句型 (强调/虚拟/倒装)
+│   │   └── README.md
+│   └── Ch13_Other_Structures/         # 第十三章：其他结构 (割裂/插入/否定)
+│       └── README.md
+└── Appendix/                          # 📎 附录
+    └── Irregular_Verbs.md             # 不规则动词变化表
+
+
 ### 🧱 第一部分：基础语法 (Basic Grammar)
 *这一部分主要讲解构成句子的基本砖块——各类词性及其用法。*
 
