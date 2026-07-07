@@ -1,7 +1,11 @@
-# 📖 English Grammar Learning
+<p align="center">
+  <b>📖 English Grammar Learning</b><br>
+  <sub>🔤 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</sub>
+</p>
 
-> 🎯 英语语法系统学习笔记 · 从入门到精通
+---
 
+> 🎯 **学习目标**：掌握英语语法核心知识，能够熟练运用各种语法结构进行准确表达。
 ---
 
 ## 📂 目录树状图
