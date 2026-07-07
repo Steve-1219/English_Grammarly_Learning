@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/English-Grammar-blue?style=for-the-badge&logo=readthedocs" alt="English Grammar">
-  <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge" alt="Version">
-</p>
-
-<h1 align="center">📖 English Grammar Learning</h1>
-
-<p align="center">
-  <b>英语语法系统学习笔记 · 从入门到精通</b><br>
-  <sub>📚 系统梳理 · 💡 易懂讲解 · ✅ 实战演练</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📝-基础语法-4CAF50" alt="基础语法">
-  <img src="https://img.shields.io/badge/🔬-核心语法-2196F3" alt="核心语法">
-  <img src="https://img.shields.io/badge/📋-练习题-FF9800" alt="练习题">
-  <img src="https://img.shields.io/badge/📎-附录-9C27B0" alt="附录">
-</p>
 
 ---
 
