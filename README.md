@@ -3,6 +3,10 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/VERSION-1.0-orange?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/DOCS-PASSING-success?style=for-the-badge" alt="Docs">
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-WELCOME-brightgreen?style=for-the-badge" alt="Contributions">
+  <img src="https://img.shields.io/badge/MAINTENANCE-YES-blue?style=for-the-badge" alt="Maintenance">
+  <img src="https://img.shields.io/badge/MADE-WITH_MARKDOWN-1f425f?style=for-the-badge&logo=markdown" alt="Made with Markdown">
 </p>
 
 <br>
