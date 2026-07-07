@@ -5,6 +5,7 @@
 ---
 
 ## 📂 目录树状图
+```
 english-grammar-learning/
 ├── README.md
 ├── 01-基础语法/
@@ -26,6 +27,7 @@ english-grammar-learning/
 │ └── 练习题汇总.md
 └── appendix/
 └── 不规则动词表.md
+```
 ---
 
 ## 📚 目录导航
